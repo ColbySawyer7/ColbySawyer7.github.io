@@ -1,3 +1,19 @@
+Colby L. Sawyer
+(mailto:sawyerc17@students.ecu.edu)
+
+Created based on a template from from HTML5Up. Information from the template developer is below.
+
+
+==========================================================================================
+//	Template Developer Notes
+==========================================================================================
+Identity by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+==========================================================================================
+
+
+
 Identity by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)

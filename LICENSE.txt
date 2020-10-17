@@ -1,3 +1,22 @@
+Colby L. Sawyer
+(mailto:sawyerc17@students.ecu.edu)
+
+Created based on a template from from HTML5Up. Information from the template developer is below.
+
+Part of the working research group Pi-Pirates, affiliated with 
+East Carolina Univeristy College of Engineering and Technology. 
+
+
+==========================================================================================
+//	Template Developer Notes
+==========================================================================================
+Story by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+==========================================================================================
+
+
+
 Creative Commons Attribution 3.0 Unported
 http://creativecommons.org/licenses/by/3.0/
 
